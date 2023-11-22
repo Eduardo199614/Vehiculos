@@ -1,0 +1,8 @@
+create TABLE vehiculos (
+	id int ,
+    placa VARCHAR(10),
+    modelo VARCHAR(50),
+    año INTEGER,
+    fecha_compra DATE,
+    observaciones TEXT
+);
